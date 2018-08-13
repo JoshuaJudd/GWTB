@@ -1,0 +1,9 @@
+<div id="emails">
+  <ul>
+    <li *ngFor="let email of emails$" id="singleEmail">
+      <h2>From: {{ email.EmailSender }}</h2>
+      <h3>Subject: {{ email.EmailSubject }}</h3>
+      <p>{{ email.EmailMessage }}<p>
+    </li>
+  </ul>
+</div>
