@@ -1,0 +1,19 @@
+#emails{
+    opacity: 25%;
+    width: 100%;
+
+    ul{
+        padding: 20px 30px;
+        list-style-type: none;
+        margin: 0; padding: 0;
+
+        #singleEmail{
+            background-color:lightgrey;
+            border: 2.5px solid black;
+            border-radius: 10px;
+            text-align: center;
+            margin-top: 2px;
+            margin-bottom: 2px;
+        }
+    }
+}

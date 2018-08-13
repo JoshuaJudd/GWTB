@@ -1,0 +1,12 @@
+
+<div id="content">
+  <div></div>
+  <form>
+    <input #userEmail (keyup)="addEmail(userEmail.value)" type="text" placeholder="Your E-mail" id="userEmail" required /><br>
+    <input #userSubject (keyup)="addSubject(userSubject.value)" type="text" placeholder="Subject" id="userSubject" required /><br>
+    <input #userOrder (keyup)="addOrder(userOrder.value)" type="text" placeholder="Your Order" id="userOrder" required /><br>
+    <button (click)="sendEmail()">Send E-mail</button>
+  </form>
+  <p>{{ NewEmail.EmailSender }} {{ NewEmail.EmailSubject }} {{ NewEmail.EmailMessage }}</p>
+  <div></div>
+</div>

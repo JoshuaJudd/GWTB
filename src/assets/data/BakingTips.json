@@ -1,0 +1,22 @@
+[
+    {
+        "BakingTipId": 1,
+        "bakingTip": "Don't burn Cookies!"
+    },
+    {
+        "BakingTipId": 2,
+        "bakingTip": "Don't burn Cake!"
+    },
+    {
+        "BakingTipId": 3,
+        "bakingTip": "Don't burn Bread!"
+    },
+    {
+        "BakingTipId": 4,
+        "bakingTip": "Don't burn Meat!"
+    },
+    {
+        "BakingTipId": 5,
+        "bakingTip": "Don't burn Pie!"
+    }
+]
