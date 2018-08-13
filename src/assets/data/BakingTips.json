@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "BakingTipId": 1,
@@ -19,4 +20,27 @@
         "BakingTipId": 5,
         "bakingTip": "Don't burn Pie!"
     }
+=======
+[
+    {
+        "BakingTipId": 1,
+        "bakingTip": "Don't burn Cookies!"
+    },
+    {
+        "BakingTipId": 2,
+        "bakingTip": "Don't burn Cake!"
+    },
+    {
+        "BakingTipId": 3,
+        "bakingTip": "Don't burn Bread!"
+    },
+    {
+        "BakingTipId": 4,
+        "bakingTip": "Don't burn Meat!"
+    },
+    {
+        "BakingTipId": 5,
+        "bakingTip": "Don't burn Pie!"
+    }
+>>>>>>> d1f9046aac953406200c6ce99fb7d9357f64064b
 ]
