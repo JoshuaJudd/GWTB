@@ -1,0 +1,9 @@
+#container {
+    height: 100%;
+    display: grid;
+    grid-template-columns: 1fr 4fr 1fr;
+}
+
+h1 {
+    text-align: center;
+}

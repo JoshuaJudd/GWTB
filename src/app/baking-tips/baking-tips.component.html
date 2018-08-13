@@ -1,0 +1,11 @@
+<div id="container">
+  <div></div>
+  <div id="tip">
+    <h3>Baking Tips</h3>
+    <div id="inner" *ngFor="let tip of tips$">
+      <p *ngIf="tip.BakingTipId == randomNum">
+        {{ tip.bakingTip }}
+      </p>
+    </div>
+  </div>
+</div>

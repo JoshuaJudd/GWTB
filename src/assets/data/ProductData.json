@@ -1,0 +1,47 @@
+[
+    {
+        "ProductId": 1,
+        "name": "French Bread",
+        "price": "$ 2.00"
+    },
+    {
+        "ProductId": 2,
+        "name": "French Bread (2 Loaves)",
+        "price": "$ 3.50"
+    },
+    {
+        "ProductId": 3,
+        "name": "Dinner Rolls (1 Dozen)",
+        "price": "$ 5.00"
+    },
+    {
+        "ProductId": 4,
+        "name": "Dinner Rolls (1 Dozen - Frozen)",
+        "price": "$ 5.00"
+    },
+    {
+        "ProductId": 5,
+        "name": "Cinnimon Rolls (1 Dozen)",
+        "price": "$ 5.00"
+    },
+    {
+        "ProductId": 6,
+        "name": "Cinnimon Rolls (1 Dozen - Frozen)",
+        "price": "$ 5.00"
+    },
+    {
+        "ProductId": 7,
+        "name": "Orange Rolls (1 Dozen)",
+        "price": "$ 6.00"
+    },
+    {
+        "ProductId": 8,
+        "name": "Orange Rolls (1 Dozen - Frozen)",
+        "price": "$ 6.00"
+    },
+    {
+        "ProductId": 9,
+        "name": "Burnt rolls",
+        "price": "$ -1.00"
+    }
+]

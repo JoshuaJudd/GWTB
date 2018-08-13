@@ -1,0 +1,44 @@
+#productItem {
+    display: grid;
+    grid-template-columns: 2fr 8fr 2fr;
+
+
+    ul {
+        padding: 20px 30px;
+        list-style-type: none;
+        margin:0;padding:0;
+        text-align: center;
+
+        li {
+            background: rgb(124, 122, 122);
+            color: white;
+            border-radius: 50px;
+            margin: 5px
+
+            a {
+                font-size: 1.5em;
+                text-decoration: none;
+                font-weight: bold;
+                color:#00A8FF;
+            }
+
+            ul {
+                margin-top: 10px;
+                
+                li {
+                    padding:0;
+
+                    a {
+                        font-size: 1em;
+                        font-weight: 300;
+                    }
+                }
+            }
+        }
+
+        li:hover {
+            background-color: rgb(92, 92, 92);
+            box-shadow: -5px 10px rgb(154, 200, 226);
+        }
+    }
+}

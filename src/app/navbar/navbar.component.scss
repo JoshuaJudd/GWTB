@@ -1,0 +1,36 @@
+nav {
+    height: auto;
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+
+    ul {
+        list-style-type: none;
+        padding: 0;
+        background:#2d2e2e;
+        border-radius: 5px;
+        display: grid;
+        grid-template-columns: 25% 25% 25% 25%;
+
+        li{
+            border: 2px solid bisque;
+            border-radius: 5px;
+            margin: 3px;
+
+            a{
+                color: #fff;
+                padding: 1px 5px 1px 5px;
+                display: block;
+                text-align: center;
+            }
+
+            .activated {
+                background-color: #00a8ff;
+            }
+        }
+
+        li:hover {
+            background-color: #00a8ff;
+            border-color: black;
+        }
+    }
+}

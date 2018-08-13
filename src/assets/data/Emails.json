@@ -1,0 +1,12 @@
+[
+    {
+        "EmailSender": "jud13013@byui.edu",
+        "EmailSubject": "Dinner Rolls",
+        "EmailMessage": " I would like 50 orders of Dinner Rolls. This is a test." 
+    },
+    {
+        "EmailSender": "judster7@gmail.com",
+        "EmailSubject": "Orange Rolls",
+        "EmailMessage": " I would like 50 orders of Orange Rolls. This is also a test." 
+    }
+]
